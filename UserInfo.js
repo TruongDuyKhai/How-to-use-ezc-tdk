@@ -9,7 +9,7 @@ module.exports = {
     // author or mention
     const member = message.guild.members.cache.get(user.id);
     
-    const embed = tdk.UserInfo({
+    const embed = await tdk.UserInfo({
       member: member,
     });
     
