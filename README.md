@@ -5,6 +5,8 @@
 
 [User Info](https://github.com/TruongDuyKhai/How-to-use-ezc-tdk/blob/main/UserInfo.js)
 
+[Poll Create](https://github.com/TruongDuyKhai/How-to-use-ezc-tdk/blob/main/pollCreate.js)
+
 <h2>Install</h2>
 
 `npm i ezc-tdk`
